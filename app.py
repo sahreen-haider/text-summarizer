@@ -51,7 +51,7 @@ def main():
     #for x in f:
     #    pdf.cell(200, 10, txt = x, ln = 1, align = 'C')
    # save the pdf with name .pdf
-  # pdf.output("Shakir's Summariser.pdf")
+  # pdf.output("Sahreen's Summariser.pdf")
 
 
 def download_model():
